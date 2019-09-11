@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .transition-fade {
   opacity: 1;
   transition: 500ms;

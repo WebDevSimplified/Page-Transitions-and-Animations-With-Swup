@@ -1,0 +1,28 @@
+{
+  "name": "page-transitions-and-animations-with-swup-master",
+  "version": "1.0.0",
+  "description": "Demonstrating the use of the swup javascript library to create smooth page transitions.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevSimplified/Page-Transitions-and-Animations-With-Swup.git"
+  },
+  "keywords": [
+    "animation",
+    "transition",
+    "swup",
+    "javascript"
+  ],
+  "author": "WebDevSimplified",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevSimplified/Page-Transitions-and-Animations-With-Swup/issues"
+  },
+  "homepage": "https://github.com/WebDevSimplified/Page-Transitions-and-Animations-With-Swup#readme",
+  "dependencies": {
+    "swup": "^2.0.5"
+  }
+}
